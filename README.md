@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/480191229250764802)](https://discord.com/users/480191229250764802)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1229109763950907456)](https://discord.com/users/1229109763950907456)
 
 # Mr.iN2
 
